@@ -1,0 +1,17 @@
+body {
+        background-position: center;
+        background-image: url("whyplash.jpg");
+}
+ 
+ h1 {
+    text-align: center;
+    color: grey;
+   
+  }
+
+p{
+        text-align: center;
+        color: balck;
+        font-size: 2rem;
+
+}
